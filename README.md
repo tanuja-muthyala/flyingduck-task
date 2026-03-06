@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-FLYINGDUCK TASK-Testing CI/CD pipeline trigger
+Testing CI/CD pipeline trigger
 # Spring PetClinic Sample Application [![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml)[![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/gradle-build.yml)
 
 check for pr 
