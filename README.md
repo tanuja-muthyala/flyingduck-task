@@ -1,2 +1,2 @@
 # flyingduck-task
-task to implement cicd 
+task to implement cicd pipeline 
